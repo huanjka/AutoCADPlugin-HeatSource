@@ -1,0 +1,23 @@
+commit 361eeed85e695b9abcc5f08f50cde7555dbeef19
+Author: LisaHtm <383015311@qq.com>
+Date:   Thu Nov 12 22:05:45 2015 +0800
+
+    clients review, bugs
+
+commit 1256569bde1e3a2545dc63680ae1547789734024
+Author: xu-wang11 <wangxu.93@icloud.com>
+Date:   Fri Oct 2 15:11:15 2015 +0800
+
+    修复layer的问题，同时添加第二个图层的接口
+
+commit 369d350bb7bd284cd835627163d058bd505595f4
+Author: xu-wang11 <wangxu.93@icloud.com>
+Date:   Thu Oct 1 23:31:31 2015 +0800
+
+    支持添加解决方案的UI功能
+
+commit c50f3e46416f6ebd05af8001e4ec3715352bb821
+Author: xu-wang11 <wangxu.93@icloud.com>
+Date:   Thu Oct 1 20:01:12 2015 +0800
+
+    添加chrometab bar

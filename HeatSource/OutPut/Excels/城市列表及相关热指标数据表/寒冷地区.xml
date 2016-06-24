@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2016-03-02T13:20:59Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="39" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Column ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">丹东市</Data></Cell>
+    <Cell><Data ss:Type="String">大连市</Data></Cell>
+    <Cell><Data ss:Type="String">张家口市</Data></Cell>
+    <Cell><Data ss:Type="String">承德市</Data></Cell>
+    <Cell><Data ss:Type="String">唐山市</Data></Cell>
+    <Cell><Data ss:Type="String">靑岛市</Data></Cell>
+    <Cell><Data ss:Type="String">洛阳市</Data></Cell>
+    <Cell><Data ss:Type="String">太原市</Data></Cell>
+    <Cell><Data ss:Type="String">阳泉市</Data></Cell>
+    <Cell><Data ss:Type="String">晋城市</Data></Cell>
+    <Cell><Data ss:Type="String">天水市</Data></Cell>
+    <Cell><Data ss:Type="String">榆林市</Data></Cell>
+    <Cell><Data ss:Type="String">延安市</Data></Cell>
+    <Cell><Data ss:Type="String">宝鸡市</Data></Cell>
+    <Cell><Data ss:Type="String">银川市</Data></Cell>
+    <Cell><Data ss:Type="String">平凉市</Data></Cell>
+    <Cell><Data ss:Type="String">兰州市</Data></Cell>
+    <Cell><Data ss:Type="String">喀什市</Data></Cell>
+    <Cell><Data ss:Type="String">伊宁市</Data></Cell>
+    <Cell><Data ss:Type="String">阿坝市</Data></Cell>
+    <Cell><Data ss:Type="String">拉萨市</Data></Cell>
+    <Cell><Data ss:Type="String">林芝市</Data></Cell>
+    <Cell><Data ss:Type="String">北京市</Data></Cell>
+    <Cell><Data ss:Type="String">天津市</Data></Cell>
+    <Cell><Data ss:Type="String">石家庄市</Data></Cell>
+    <Cell><Data ss:Type="String">保定市</Data></Cell>
+    <Cell><Data ss:Type="String">邢台市</Data></Cell>
+    <Cell><Data ss:Type="String">济南市</Data></Cell>
+    <Cell><Data ss:Type="String">德州市</Data></Cell>
+    <Cell><Data ss:Type="String">兖州市</Data></Cell>
+    <Cell><Data ss:Type="String">郑州市</Data></Cell>
+    <Cell><Data ss:Type="String">安阳市</Data></Cell>
+    <Cell><Data ss:Type="String">徐州市</Data></Cell>
+    <Cell><Data ss:Type="String">运城市</Data></Cell>
+    <Cell><Data ss:Type="String">西安市</Data></Cell>
+    <Cell><Data ss:Type="String">咸阳市</Data></Cell>
+    <Cell><Data ss:Type="String">吐鲁番地区</Data></Cell>
+    <Cell><Data ss:Type="String">库尔勒市</Data></Cell>
+    <Cell><Data ss:Type="String">哈密地区</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2016-01-17T12:15:04Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>14805</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s17">
+   <NumberFormat ss:Format="0_ "/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="14" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Row>
+    <Cell><Data ss:Type="String">9t（6300kw）间接供热3台</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">序号</Data></Cell>
+    <Cell><Data ss:Type="String">名    称</Data></Cell>
+    <Cell><Data ss:Type="String">品牌</Data></Cell>
+    <Cell><Data ss:Type="String">型号 （规格）</Data></Cell>
+    <Cell><Data ss:Type="String">参数</Data></Cell>
+    <Cell><Data ss:Type="String">数量</Data></Cell>
+    <Cell><Data ss:Type="String">单价</Data></Cell>
+    <Cell><Data ss:Type="String">间接价格</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">铸铁热水锅炉</Data></Cell>
+    <Cell><Data ss:Type="String">山东前田</Data></Cell>
+    <Cell><Data ss:Type="String">ZZS2.10-0.7/95/70-Y(Q)-MF7</Data></Cell>
+    <Cell><Data ss:Type="String">2100KW</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">400000</Data></Cell>
+    <Cell><Data ss:Type="Number">1200000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">自动软水装置</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s16"><Data ss:Type="Number">3.78</Data></Cell>
+    <Cell><Data ss:Type="String">4.0m3/h</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4000</Data></Cell>
+    <Cell><Data ss:Type="Number">4000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">软化水箱</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">6.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="String">6.5立方米</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">19500</Data></Cell>
+    <Cell><Data ss:Type="Number">19500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">一次补水泵</Data></Cell>
+    <Cell><Data ss:Type="String">上海凯泉</Data></Cell>
+    <Cell><Data ss:Type="Number">0.45</Data></Cell>
+    <Cell><Data ss:Type="String">流量0.3m3/h    扬程10m （一用一备）</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1600</Data></Cell>
+    <Cell><Data ss:Type="Number">3200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">一次膨胀罐</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">φ200</Data></Cell>
+    <Cell><Data ss:Type="String">55L</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3500</Data></Cell>
+    <Cell><Data ss:Type="Number">3500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String"> 一次循环泵     </Data></Cell>
+    <Cell><Data ss:Type="String">上海凯泉</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">238.392</Data></Cell>
+    <Cell><Data ss:Type="String">流量55m3/h   扬程15m （互备）</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2600</Data></Cell>
+    <Cell><Data ss:Type="Number">7800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">板式换热器</Data></Cell>
+    <Cell><Data ss:Type="String">淄博泰勒</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">210</Data></Cell>
+    <Cell><Data ss:Type="String">换热面积80m2（互备）</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">35200</Data></Cell>
+    <Cell><Data ss:Type="Number">105600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String"> 二次循环泵         </Data></Cell>
+    <Cell><Data ss:Type="String">上海凯泉</Data></Cell>
+    <Cell><Data ss:Type="Number">238.39200000000005</Data></Cell>
+    <Cell><Data ss:Type="String">流量55m3/h   扬程32m （互备）</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3300</Data></Cell>
+    <Cell><Data ss:Type="Number">9900</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">二次补水泵</Data></Cell>
+    <Cell><Data ss:Type="String">上海凯泉</Data></Cell>
+    <Cell><Data ss:Type="Number">5.8500000000000005</Data></Cell>
+    <Cell><Data ss:Type="String">流量1.5m3/h    扬程60m （一用一备）</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2200</Data></Cell>
+    <Cell><Data ss:Type="Number">4400</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">二次膨胀罐</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">φ1000</Data></Cell>
+    <Cell><Data ss:Type="String">1000L</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">7300</Data></Cell>
+    <Cell><Data ss:Type="Number">7300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">设备费用（元）</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="Number">1365200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">附件及安装费用</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">占设备费用50%</Data></Cell>
+    <Cell><Data ss:Type="String">总价（元）</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s17"><Data ss:Type="Number">2047800</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R14C8</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

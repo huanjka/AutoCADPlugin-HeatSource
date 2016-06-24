@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2016-03-02T13:20:59Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="43" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Column ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">博克图</Data></Cell>
+    <Cell><Data ss:Type="String">伊春市</Data></Cell>
+    <Cell><Data ss:Type="String">呼玛</Data></Cell>
+    <Cell><Data ss:Type="String">海拉尔</Data></Cell>
+    <Cell><Data ss:Type="String">满洲里</Data></Cell>
+    <Cell><Data ss:Type="String">阿尔山市</Data></Cell>
+    <Cell><Data ss:Type="String">玛多</Data></Cell>
+    <Cell><Data ss:Type="String">海伦</Data></Cell>
+    <Cell><Data ss:Type="String">齐齐哈尔市</Data></Cell>
+    <Cell><Data ss:Type="String">富锦</Data></Cell>
+    <Cell><Data ss:Type="String">哈尔滨市</Data></Cell>
+    <Cell><Data ss:Type="String">牡丹江市</Data></Cell>
+    <Cell><Data ss:Type="String">大庆市</Data></Cell>
+    <Cell><Data ss:Type="String">安达</Data></Cell>
+    <Cell><Data ss:Type="String">佳木斯市</Data></Cell>
+    <Cell><Data ss:Type="String">二连浩特市</Data></Cell>
+    <Cell><Data ss:Type="String">多伦</Data></Cell>
+    <Cell><Data ss:Type="String">大柴旦</Data></Cell>
+    <Cell><Data ss:Type="String">阿勒泰地区</Data></Cell>
+    <Cell><Data ss:Type="String">那曲地区</Data></Cell>
+    <Cell><Data ss:Type="String">长春市</Data></Cell>
+    <Cell><Data ss:Type="String">四平市</Data></Cell>
+    <Cell><Data ss:Type="String">通化市</Data></Cell>
+    <Cell><Data ss:Type="String">延吉市</Data></Cell>
+    <Cell><Data ss:Type="String">通辽市</Data></Cell>
+    <Cell><Data ss:Type="String">抚顺市</Data></Cell>
+    <Cell><Data ss:Type="String">阜新市</Data></Cell>
+    <Cell><Data ss:Type="String">沈阳市</Data></Cell>
+    <Cell><Data ss:Type="String">本溪市</Data></Cell>
+    <Cell><Data ss:Type="String">鞍山市</Data></Cell>
+    <Cell><Data ss:Type="String">呼和浩特市</Data></Cell>
+    <Cell><Data ss:Type="String">包头市</Data></Cell>
+    <Cell><Data ss:Type="String">鄂尔多斯市</Data></Cell>
+    <Cell><Data ss:Type="String">赤峰市</Data></Cell>
+    <Cell><Data ss:Type="String">额济纳旗</Data></Cell>
+    <Cell><Data ss:Type="String">大同市</Data></Cell>
+    <Cell><Data ss:Type="String">乌鲁木齐市</Data></Cell>
+    <Cell><Data ss:Type="String">克拉玛依市</Data></Cell>
+    <Cell><Data ss:Type="String">酒泉市</Data></Cell>
+    <Cell><Data ss:Type="String">西宁</Data></Cell>
+    <Cell><Data ss:Type="String">日喀则地区</Data></Cell>
+    <Cell><Data ss:Type="String">甘孜</Data></Cell>
+    <Cell><Data ss:Type="String">康定市</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

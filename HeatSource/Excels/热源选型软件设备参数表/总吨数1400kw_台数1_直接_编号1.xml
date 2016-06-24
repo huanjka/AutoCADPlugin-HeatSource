@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2016-01-17T12:06:01Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>14805</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="仿宋_GB2312" x:CharSet="134" x:Family="Modern" ss:Size="14"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="仿宋_GB2312" x:CharSet="134" x:Family="Modern" ss:Size="14"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="仿宋_GB2312" x:CharSet="134" x:Family="Modern" ss:Size="14"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="仿宋_GB2312" x:CharSet="134" x:Family="Modern" ss:Size="14"
+    ss:Color="#FF0000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="仿宋_GB2312" x:CharSet="134" x:Family="Modern" ss:Size="14"/>
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="20" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Row ss:Height="25.5">
+    <Cell ss:MergeAcross="7" ss:StyleID="s22"><Data ss:Type="String">2t（1400kw）直接供热1台</Data></Cell>
+   </Row>
+   <Row ss:Height="56.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">序号</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">名    称</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">品牌</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">型号 （规格）</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">参数</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">数量</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">单价</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">间接价格</Data></Cell>
+   </Row>
+   <Row ss:Height="112.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">铸铁热水锅炉</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">山东前田</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">ZZS1.75-0.7/95/70-Y(Q)-MF7</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1400KW</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">257500</Data></Cell>
+    <Cell ss:StyleID="s20" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">257500</Data></Cell>
+   </Row>
+   <Row ss:Height="37.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">自动软水装置</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s21" ss:Formula="=R[9]C[11]"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.0m3/h</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1900</Data></Cell>
+    <Cell ss:StyleID="s18" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">1900</Data></Cell>
+   </Row>
+   <Row ss:Height="37.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">软化水箱</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17" ss:Formula="=R[7]C[11]"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2立方米</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">7700</Data></Cell>
+    <Cell ss:StyleID="s18" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">7700</Data></Cell>
+   </Row>
+   <Row ss:Height="115.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String"> 循环泵         </Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">上海凯泉</Data></Cell>
+    <Cell ss:StyleID="s17" ss:Formula="=R[4]C[8]"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">流量55m<Sup>3</Sup><Font>/h   扬程32m （一用一备）</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">3300</Data></Cell>
+    <Cell ss:StyleID="s18" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">6600</Data></Cell>
+   </Row>
+   <Row ss:Height="134.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">补水泵</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">上海凯泉</Data></Cell>
+    <Cell ss:StyleID="s17" ss:Formula="=R[-2]C[8]"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">流量1.5m<Sup>3</Sup><Font>/h    扬程60m （一用一备）</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1600</Data></Cell>
+    <Cell ss:StyleID="s18" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">3200</Data></Cell>
+   </Row>
+   <Row ss:Height="18.75">
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">膨胀罐</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">φ500</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">250L</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">3500</Data></Cell>
+    <Cell ss:StyleID="s18" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">3500</Data></Cell>
+   </Row>
+   <Row ss:Height="56.25">
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">设备费用（元）</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">280400</Data></Cell>
+   </Row>
+   <Row ss:Height="56.25">
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">附件安装费用</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">占设备费用50%</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">总价（元）</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s18" ss:Formula="=R[-1]C*(1+0.5)"><Data ss:Type="Number">420600</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>6</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R10C8</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
